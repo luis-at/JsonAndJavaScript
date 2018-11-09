@@ -1,0 +1,10 @@
+.section-container{
+    width: 500px;
+    height: 600px;
+    background-color: aqua;
+}
+
+
+p{
+    font-size: 12px;
+}
